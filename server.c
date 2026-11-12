@@ -56,7 +56,7 @@ static Menu MENU[] = {
  {"de2","Chocolate Lava Cake","Dark chocolate centre, vanilla bean cream","Desserts",IMG"1578985545062-69928b1d9587?w=640&q=70",169,4.7},
  {"be1","Masala Chai","Assam tea brewed with ginger and cardamom","Beverages",IMG"1571934811356-5cc061b6821f?w=640&q=70",59,4.6},
  {"be2","Fresh Lime Soda","Sweet, salted or mixed, over crushed ice","Beverages",IMG"1513558161293-cdaf765ed2fd?w=640&q=70",89,4.2},
- {"sp1","Chef's Thali","Five curries, dal, rice, bread and a sweet","Specials",IMG"1585937421612-70a008356fbe?w=640&q=70",399,4.8},
+ {"sp1","Chef's Thali","Five curries, dal, rice, bread and a sweet","Specials",IMG"1559561724-732dbca7be1e?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",399,4.8},
 };
 #define NMENU ((int)(sizeof MENU / sizeof *MENU))
 static HTable MENUH, SESS;

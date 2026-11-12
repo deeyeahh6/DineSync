@@ -44,7 +44,7 @@ typedef struct { const char *id, *name, *desc, *cat, *img; int price; double rat
 #define IMG "https://images.unsplash.com/photo-"
 static Menu MENU[] = {
  {"st1","Paneer Tikka","Charred cottage cheese, mint chutney, pickled onion","Starters",IMG"1567188040759-fb8a883dc6d8?w=640&q=70",249,4.6},
- {"st2","Crispy Corn","Golden corn kernels tossed with curry leaf and pepper","Starters",IMG"1680118540055-aa9f6ce1d93d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",179,4.3},
+ {"st2","Corn Soup","A warm, creamy soup made with tender sweet corn, fresh vegetables, and mild spices","Starters",IMG"1665593998976-d957f2827fe7?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",179,4.3},
  {"st3","Chicken 65","Spiced, crisp-fried chicken with green chilli","Starters",IMG"1610057099443-fde8c4d50f91?w=640&q=70",269,4.7},
  {"mc1","Butter Chicken","Tandoori chicken in a slow-cooked tomato butter gravy","Main Course",IMG"1565557623262-b51c2513a641?w=640&q=70",329,4.8},
  {"mc2","Dal Makhani","Black lentils simmered overnight with cream","Main Course",IMG"1546833999-b9f581a1996d?w=640&q=70",249,4.5},

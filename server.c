@@ -44,15 +44,15 @@ typedef struct { const char *id, *name, *desc, *cat, *img; int price; double rat
 #define IMG "https://images.unsplash.com/photo-"
 static Menu MENU[] = {
  {"st1","Paneer Tikka","Charred cottage cheese, mint chutney, pickled onion","Starters",IMG"1567188040759-fb8a883dc6d8?w=640&q=70",249,4.6},
- {"st2","Crispy Corn","Golden corn kernels tossed with curry leaf and pepper","Starters","images/crispycorn.jpeg",179,4.3},
+ {"st2","Crispy Corn","Golden corn kernels tossed with curry leaf and pepper","Starters","public/images/crispycorn.jpeg",179,4.3},
  {"st3","Chicken 65","Spiced, crisp-fried chicken with green chilli","Starters",IMG"1610057099443-fde8c4d50f91?w=640&q=70",269,4.7},
  {"mc1","Butter Chicken","Tandoori chicken in a slow-cooked tomato butter gravy","Main Course",IMG"1565557623262-b51c2513a641?w=640&q=70",329,4.8},
  {"mc2","Dal Makhani","Black lentils simmered overnight with cream","Main Course",IMG"1546833999-b9f581a1996d?w=640&q=70",249,4.5},
- {"mc3","Garlic Naan Basket","Three tandoor naans brushed with garlic butter","Main Course","images/garlicnaan.jpeg",119,4.4},
+ {"mc3","Garlic Naan Basket","Three tandoor naans brushed with garlic butter","Main Course","public/images/garlicnaan.jpeg",119,4.4},
  {"bi1","Hyderabadi Chicken Biryani","Dum-cooked basmati, saffron, tender chicken","Biryani",IMG"1563379091339-03b21ab4a4f8?w=640&q=70",349,4.9},
  {"bi2","Veg Dum Biryani","Seasonal vegetables layered with fragrant rice","Biryani",IMG"1589302168068-964664d93dc0?w=640&q=70",279,4.4},
  {"bi3","Mutton Biryani","Slow-cooked mutton, whole spices, burani raita","Biryani",IMG"1633945274405-b6c8069047b0?w=640&q=70",429,4.8},
- {"de1","Gulab Jamun","Warm milk dumplings in rose-cardamom syrup","Desserts","images/gulab.jpeg",129,4.5},
+ {"de1","Gulab Jamun","Warm milk dumplings in rose-cardamom syrup","Desserts","public/images/gulab.jpeg",129,4.5},
  {"de2","Chocolate Lava Cake","Dark chocolate centre, vanilla bean cream","Desserts",IMG"1578985545062-69928b1d9587?w=640&q=70",169,4.7},
  {"be1","Masala Chai","Assam tea brewed with ginger and cardamom","Beverages",IMG"1571934811356-5cc061b6821f?w=640&q=70",59,4.6},
  {"be2","Fresh Lime Soda","Sweet, salted or mixed, over crushed ice","Beverages",IMG"1513558161293-cdaf765ed2fd?w=640&q=70",89,4.2},

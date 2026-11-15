@@ -1,3 +1,4 @@
+© 2026 deeyeahh6. All rights reserved.
 /* DineSync backend - build: gcc -O2 -o dinesync server.c && ./dinesync [port]
  *
  * Data structures

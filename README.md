@@ -1,3 +1,4 @@
+© 2026 deeyeahh6. All rights reserved.
 # DineSync – One Table. One Shared Experience.
 QR-based table ordering with a shared cart. HTML/CSS/JS frontend, C backend.
 
